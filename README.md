@@ -14,5 +14,5 @@ demo1: [![Demo1](https://img.youtube.com/vi/4UBx1vc5U_A/0.jpg)](https://www.yout
 demo2: [![Demo2](https://img.youtube.com/vi/xxzLaJQgXRM/0.jpg)](https://www.youtube.com/watch?v=xxzLaJQgXRM)
 
 
-
+For more information, please read the file "detailed"
 
